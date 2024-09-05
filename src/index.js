@@ -1,5 +1,5 @@
 import { AUTO, Scale, Game } from 'phaser'
-import AmongUsScene from './scenes/AmongUsScene'
+import HelloWorldScene from './scenes/Game'
 
 const config = {
 	type: AUTO,
@@ -17,7 +17,7 @@ const config = {
 			debug: false,
 		},
 	},
-	scene: [AmongUsScene],
+	scene: [HelloWorldScene],
 }
 
 /* eslint-disable-next-line */
