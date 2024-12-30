@@ -15,7 +15,7 @@ export default class HelloWorldScene extends Scene {
 		this.add.text(
 			this.gameWidth / 2 - 100,
 			this.gameHeight / 2,
-			'Hello world',
+			'Hello Students!\nPlease use this template wisely',
 			{
 				fontSize: '30pt',
 				fill: '#000',
